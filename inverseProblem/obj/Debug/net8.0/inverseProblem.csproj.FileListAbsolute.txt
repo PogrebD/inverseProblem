@@ -1,0 +1,14 @@
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.AssemblyInfoInputs.cache
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.AssemblyInfo.cs
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.csproj.CoreCompileInputs.cache
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\bin\Debug\net8.0\inverseProblem.exe
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\bin\Debug\net8.0\inverseProblem.deps.json
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\bin\Debug\net8.0\inverseProblem.runtimeconfig.json
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\bin\Debug\net8.0\inverseProblem.dll
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\bin\Debug\net8.0\inverseProblem.pdb
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.dll
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\refint\inverseProblem.dll
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.pdb
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\inverseProblem.genruntimeconfig.cache
+C:\Users\dimap\source\repos\inverseProblem\inverseProblem\obj\Debug\net8.0\ref\inverseProblem.dll

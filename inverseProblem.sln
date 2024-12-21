@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inverseProblem", "inverseProblem\inverseProblem.csproj", "{DDDF21AB-0F00-4F9B-8020-A550707F0ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfUi", "WpfUi\WpfUi.csproj", "{1D09BF03-5E69-4D8E-8D5B-BB8AE36640AB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DDDF21AB-0F00-4F9B-8020-A550707F0ACB} = {DDDF21AB-0F00-4F9B-8020-A550707F0ACB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDF21AB-0F00-4F9B-8020-A550707F0ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDF21AB-0F00-4F9B-8020-A550707F0ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDF21AB-0F00-4F9B-8020-A550707F0ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDF21AB-0F00-4F9B-8020-A550707F0ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D09BF03-5E69-4D8E-8D5B-BB8AE36640AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D09BF03-5E69-4D8E-8D5B-BB8AE36640AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D09BF03-5E69-4D8E-8D5B-BB8AE36640AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D09BF03-5E69-4D8E-8D5B-BB8AE36640AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA6A31B-F796-4492-AE86-58969A75CB75}
+	EndGlobalSection
+EndGlobal
